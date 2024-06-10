@@ -14,8 +14,6 @@
  
  🌱 I’m currently learning **Java & AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/alfajmahabri/alfajmahabri/issues)**
-
 ⚡ Current **Community Manager At Build Bytes**
 
  </div>
