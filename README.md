@@ -41,4 +41,3 @@
 
 <hr/>
 
-[![Alfaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfajmahabri)](https://github.com/alfajmahabri/github-readme-stats)
