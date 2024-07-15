@@ -38,6 +38,7 @@
     <img src="https://skillicons.dev/icons?i=aws,gcp,linux,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=python,c,java,cpp,html,css" /><br>
 </div>
+[![Alfaj's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=alfajmahabri&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/alfajmahabri/github-readme-stats#gh-dark-mode-only)
 
 <br/>
 <hr/>
